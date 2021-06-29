@@ -1,7 +1,6 @@
-pandas
-streamlit
-plotly
-python-dotenv
-altair
-bokeh
-requests
+streamlit==0.83.0
+pandas==1.2.5
+plotly==5.0.0
+numpy==1.20.2
+requests==2.22.0
+python-dotenv==0.18.0
